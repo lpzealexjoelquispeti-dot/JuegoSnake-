@@ -51,6 +51,8 @@ Pruebas: Window → General → Test Runner → EditMode → Run All.
 
 Resultado de las comprobaciones iniciales: [VALIDACION.md](docs/VALIDACION.md).
 
+Para estudiar los archivos y preparar la exposicion: [GUIA_ESTUDIO.md](docs/GUIA_ESTUDIO.md).
+
 La ayuda de IA y la importacion de la base deben declararse segun las reglas
 del curso. Cada integrante debe entender y probar su aporte y describir sus
 cambios reales en el pull request.
