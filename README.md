@@ -1,4 +1,4 @@
-# JuegoSnake — reparto de 3 integrantes
+# JuegoSnake
 
 Repositorio: https://github.com/lpzealexjoelquispeti-dot/JuegoSnake-
 
@@ -30,14 +30,7 @@ Cada integrante hace sus commits y push desde su propia laptop y cuenta.
 Los colaboradores del repositorio anterior deben ser invitados de nuevo
 a JuegoSnake- y aceptar esa invitacion.
 
-No volver a ejecutar git init en los clones. No copiar carpetas .git,
-Library, Temp, Logs o Builds del proyecto anterior. Las guias incluyen los
-archivos concretos que corresponden a cada aporte y sus .meta.
-
-## Integrar y entregar
-
-Usar pull requests con base main y **Create a merge commit** para conservar
-los commits de cada integrante. Repetir las pruebas despues de cada merge.
+## Integrar
 
 Despues de integrar el menu, Unity → **Snake → Preparar escenas (solo si faltan)**
 coloca Menu primero y Game despues. La persona A entrega tambien el cambio
@@ -51,6 +44,3 @@ Pruebas: Window → General → Test Runner → EditMode → Run All.
 
 Resultado de las comprobaciones iniciales: [VALIDACION.md](docs/VALIDACION.md).
 
-La ayuda de IA y la importacion de la base deben declararse segun las reglas
-del curso. Cada integrante debe entender y probar su aporte y describir sus
-cambios reales en el pull request.
