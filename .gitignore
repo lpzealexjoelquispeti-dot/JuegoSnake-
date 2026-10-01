@@ -19,5 +19,6 @@ ValidationProject/
 *.VC.db
 *.unitypackage
 TestResults*.xml
+Assets/Resources/PerformanceTestRun*.json*
 .DS_Store
 Thumbs.db
