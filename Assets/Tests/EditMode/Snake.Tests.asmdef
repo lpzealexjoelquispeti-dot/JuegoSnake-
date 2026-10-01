@@ -1,0 +1,6 @@
+{
+  "name": "Snake.Tests",
+  "references": ["Snake.Runtime"],
+  "includePlatforms": ["Editor"],
+  "optionalUnityReferences": ["TestAssemblies"]
+}

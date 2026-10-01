@@ -1,0 +1,8 @@
+Persona 2: colocar aqui snake_head.png, snake_body.png y snake_tail.png.
+Cada PNG: 32 x 32 px, fondo transparente, sin margenes y sin texto.
+Cabeza y cola orientadas a la derecha. Cuerpo cuadrado sin direccion.
+Importar como Sprite (2D and UI), Single, 32 PPU, Point, sin compresion,
+pivote Center (0.5, 0.5), Generate Mip Maps desactivado, Wrap Clamp.
+Incluir los tres archivos .png.meta creados por Unity en el commit.
+La logica los carga automaticamente; no editar GameScreen.cs ni escenas.
+El juego utiliza cuadrados provisionales mientras no existan los PNG.
