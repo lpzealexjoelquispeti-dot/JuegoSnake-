@@ -2,6 +2,12 @@
 
 Repositorio: https://github.com/lpzealexjoelquispeti-dot/JuegoSnake-
 
+Integrantes:
+
+- MARCELO JOSUE ESCOBAR CHIPANA
+- ALEX JOEL QUISPE TICONA
+- DANIEL GUSTAVO ZAMBRANA RONDÓN
+
 Unity 2D **6000.3.16f1**. Snake para un jugador. Esta entrega se inicia con
 una plantilla importada de Snake- y la logica reutilizada de la base
 preparada con ayuda de Codex. El historial nuevo registra esa importacion;
