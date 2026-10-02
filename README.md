@@ -6,7 +6,7 @@ Integrantes:
 
 - MARCELO JOSUE ESCOBAR CHIPANA
 - ALEX JOEL QUISPE TICONA
-- DANIEL GUSTAVO ZAMBRANA RONDÓN
+- DANIEL GUSTAVO ZAMBRANA RONDON
 
 Unity 2D **6000.3.16f1**. Snake para un jugador. Esta entrega se inicia con
 una plantilla importada de Snake- y la logica reutilizada de la base
