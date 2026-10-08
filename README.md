@@ -12,7 +12,7 @@ MARCELO JOSUE ESCOBAR CHIPANA — [@Josue-EC16](https://github.com/Josue-EC16)
 
 ALEX JOEL QUISPE TICONA — [@lpzealexjoelquispeti-dot](https://github.com/lpzealexjoelquispeti-dot)
 
-DANIEL GUSTAVO ZAMBRANA RONDON
+DANIEL GUSTAVO ZAMBRANA RONDON — [@dani05051234](https://github.com/dani05051234)
 
 ## Descripción
 
